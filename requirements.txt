@@ -1,0 +1,7 @@
+accelerate==1.5.2
+datasets==3.2.0
+einops==0.8.1
+evaluation==0.0.2
+tqdm==4.67.1
+transformers==4.51.3
+wandb==0.19.10
