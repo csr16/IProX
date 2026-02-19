@@ -14,7 +14,7 @@ The pipeline has two stages:
 
 This repository provides code for proxy initialization and training with gradient alignment.
 
-## Environment Setup
+## Environment Setup and Training
 
 ### 1. Create and activate an environment
 
